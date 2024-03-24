@@ -7,4 +7,5 @@ scikit-learn
 imblearn
 pymongo
 certifi
+from_root
 -e .
